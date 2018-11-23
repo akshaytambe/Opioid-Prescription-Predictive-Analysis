@@ -34,3 +34,11 @@ problem by considering educational, demographics and geographical factors:
   <li>To predict instances of drug overdoses and prevent them from occurring?</li>
 </ol>
 </p>
+<br/>
+<p>
+  <b>Development Notes:</b>
+  <ul>
+    <li>Project Proposal: https://docs.google.com/document/d/1DiaJi78xvciU-CgmCDrqY5R5DgnduW0MydiZaw27pzM/edit</li>
+    <li>Project Discussion: https://docs.google.com/document/d/1EJVE-cx-xEW3alfFlYrFUq112d1XblsAz9wKYtzViDQ/edit</li>
+  </ul>
+</p>
