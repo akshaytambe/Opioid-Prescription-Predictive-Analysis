@@ -40,5 +40,6 @@ problem by considering educational, demographics and geographical factors:
   <ul>
     <li>Project Proposal: https://docs.google.com/document/d/1DiaJi78xvciU-CgmCDrqY5R5DgnduW0MydiZaw27pzM/edit</li>
     <li>Project Discussion: https://docs.google.com/document/d/1EJVE-cx-xEW3alfFlYrFUq112d1XblsAz9wKYtzViDQ/edit</li>
+    <li>Project Presentation: https://docs.google.com/presentation/d/1cbn-H1g1iZajYNmIkV38YmurrwySG2U6mCkg8bPqAe0/edit#slide=id.g49559ada86_1_2</li>
   </ul>
 </p>
