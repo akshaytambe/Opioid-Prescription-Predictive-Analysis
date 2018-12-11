@@ -9,7 +9,7 @@
 
 ## Source Code 
 - Complete Source Code along with hyperparameter tuning: `apt321_apb462_Project_Notebook_Final.ipynb`
-- Hyperparameter tuning script: `apt321_apb462_Project_Notebook_Hyperparameter_Testing.py`
+- Hyperparameter tuning script: `hpc_tuning.py`
 - Batch script to run in HPC: `hpc_tuning.sbatch`
 
 
