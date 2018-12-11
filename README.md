@@ -6,7 +6,6 @@
   <li>Aditya Bhatt (apb462@nyu.edu)</li>
 </ul>
 <br/>
-
 ## Data Science for Social Good
 
 <b style="color:red">Problem:</b> Opioid Prescription helps to treat moderate to severe pain but it also leads to addiction
