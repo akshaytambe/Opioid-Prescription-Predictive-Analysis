@@ -6,31 +6,21 @@
   <li>Aditya Bhatt (apb462@nyu.edu)</li>
 </ul>
 <br/>
-<p>
-The 21st Century runs on statistical analysis focussing mainly on social causes. This motivates
-us to go for healthcare data as “Analysis in Healthcare” will definitely contribute for Social Good.
-From the healthcare community article, we found that there is an increase in the national
-consumption of heroin and prescription painkillers.
-</p>
-<br/>
-<p>
-A class of controlled pain-management drugs that contain natural/synthetic chemicals based on
-morphine which is the active component of opium. These drugs are often called as opioids
-which effectively mimic pain-relieving chemicals that the body produces naturally. We wish to
-mitigate the problem of Drug Overdoses by uncovering trends in prescription data, overdose
-deaths data with respect to different regions.
-</p>
-<br/>
-<p>
-We will be using “Causes of Death by Opioid Consumption” dataset to answer the following
-problem by considering educational, demographics and geographical factors:
-<ol>
-  <li>Identifying the areas affected by Opioid Consumption?</li>
-  <li>To predict what chemicals when used in significant quantities creates an opioid drug?</li>
-  <li>To use predictive analysis to predict the likelihood that a given doctor is a significant
-  prescriber of opiates. The motive behind this is that a systematic way of identifying
-  sources may reveal trends in particular practices, fields, or regions of the country that
-  can be used to combat this problem effectively.</li>
-  <li>To predict instances of drug overdoses and prevent them from occurring?</li>
-</ol>
-</p>
+
+## Data Science for Social Good
+
+<b style="color:red">Problem:</b> Opioid Prescription helps to treat moderate to severe pain but it also leads to addiction
+and hence, people misuse it by consuming it at higher rate. Overdose of Opioids leads to death.
+1. How to improve ways the opioids are prescribed?
+2. How to reduce the death toll due to drug overdose in North America?
+
+<b style="color:green">Goal:</b> Detect opium components in the data and predict prescribers with opioid prescriptions
+which may lead to drug addiction.
+
+<b style="color:blue">Data:</b> Prescription data with drug components, medicare domain, opium drug list, state-wise
+overdose deaths.
+
+<b style="color:orange">Target Variable:</b> Opioid Prescriber or not?
+
+<b style="color:purple">Impact:</b> Model is able to predict prescriber with opioid prescription and
+individual chemicals and features of high importance causing opioid addiction.
