@@ -7,6 +7,12 @@
 </ul>
 <br/>
 
+## Source Code 
+- Complete Source Code along with hyperparameter tuning: `apt321_apb462_Project_Notebook_Final.ipynb`
+- Hyperparameter tuning script: `apt321_apb462_Project_Notebook_Hyperparameter_Testing.py`
+- Batch script to run in HPC: `hpc_hyperparameter_testing.sbatch`
+
+
 ## Data Science for Social Good
 
 <b style="color:red">Problem:</b> Opioid Prescription helps to treat moderate to severe pain but it also leads to addiction
