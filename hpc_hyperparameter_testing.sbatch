@@ -6,6 +6,7 @@
 #SBATCH --time=24:00:00
 #SBATCH --mem=18GB
 #SBATCH --gres=gpu:1
+
 module purge
 module load pytorch/python3.6/0.2.0_3
 source py3.6.3/bin/activate
